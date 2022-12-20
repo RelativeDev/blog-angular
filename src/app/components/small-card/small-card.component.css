@@ -11,7 +11,7 @@
 
 .small-card__title {
     display: flex;
-    justify-content: center;
+    align-items: center;
 }
 
 .small-card__title h1 a {
